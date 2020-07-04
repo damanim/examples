@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: redis-slave123456
+  name: redis-slave12345689756
   labels:
     app: redis
     role: slave
